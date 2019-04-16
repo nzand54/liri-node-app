@@ -1,3 +1,5 @@
+//USED IN CLASS ACTIVITIES FOR POINT OF REFERENCE BELOW
+
 require("dotenv").config();
 
 var operand = process.argv[2];
